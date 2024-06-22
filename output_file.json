@@ -1,0 +1,1472 @@
+[
+    {
+        "Name": "Afghanistan",
+        "Longitude": 69.1761,
+        "Latitude": 34.5228,
+        "World Bank region": "South Asia",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Albania",
+        "Longitude": 19.8172,
+        "Latitude": 41.3317,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Algeria",
+        "Longitude": 3.05097,
+        "Latitude": 36.7397,
+        "World Bank region": "Middle East and North Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "American Samoa",
+        "Longitude": -170.691,
+        "Latitude": -14.2846,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 2
+    },
+    {
+        "Name": "Andorra",
+        "Longitude": 1.5218,
+        "Latitude": 42.5075,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Angola",
+        "Longitude": 13.242,
+        "Latitude": -8.81155,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Antigua and Barbuda",
+        "Longitude": -61.8456,
+        "Latitude": 17.1175,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Argentina",
+        "Longitude": -58.4173,
+        "Latitude": -34.6118,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 220
+    },
+    {
+        "Name": "Armenia",
+        "Longitude": 44.509,
+        "Latitude": 40.1596,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 20
+    },
+    {
+        "Name": "Aruba",
+        "Longitude": -70.0167,
+        "Latitude": 12.5167,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 3
+    },
+    {
+        "Name": "Australia",
+        "Longitude": 149.129,
+        "Latitude": -35.282,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 1023
+    },
+    {
+        "Name": "Austria",
+        "Longitude": 16.3798,
+        "Latitude": 48.2201,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 200
+    },
+    {
+        "Name": "Azerbaijan",
+        "Longitude": 49.8932,
+        "Latitude": 40.3834,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 20
+    },
+    {
+        "Name": "Bahamas, The",
+        "Longitude": -77.339,
+        "Latitude": 25.0661,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 3
+    },
+    {
+        "Name": "Bahrain",
+        "Longitude": 50.5354,
+        "Latitude": 26.1921,
+        "World Bank region": "Middle East and North Africa",
+        "麦当劳餐厅数": 28
+    },
+    {
+        "Name": "Bangladesh",
+        "Longitude": 90.4113,
+        "Latitude": 23.7055,
+        "World Bank region": "South Asia",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Barbados",
+        "Longitude": -59.6105,
+        "Latitude": 13.0935,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Belarus",
+        "Longitude": 27.5766,
+        "Latitude": 53.9678,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 24
+    },
+    {
+        "Name": "Belgium",
+        "Longitude": 4.36761,
+        "Latitude": 50.8371,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 101
+    },
+    {
+        "Name": "Belize",
+        "Longitude": -88.7713,
+        "Latitude": 17.2534,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Benin",
+        "Longitude": 2.6323,
+        "Latitude": 6.4779,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Bermuda",
+        "Longitude": -64.706,
+        "Latitude": 32.3293,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Bhutan",
+        "Longitude": 89.6177,
+        "Latitude": 27.5768,
+        "World Bank region": "South Asia",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Bolivia",
+        "Longitude": -66.1936,
+        "Latitude": -13.9908,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Bosnia and Herzegovina",
+        "Longitude": 18.4214,
+        "Latitude": 43.8607,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 5
+    },
+    {
+        "Name": "Botswana",
+        "Longitude": 25.9201,
+        "Latitude": -24.6544,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Brazil",
+        "Longitude": -47.9292,
+        "Latitude": -15.7801,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 1052
+    },
+    {
+        "Name": "British Virgin Islands",
+        "Longitude": -64.623056,
+        "Latitude": 18.431389,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Brunei Darussalam",
+        "Longitude": 114.946,
+        "Latitude": 4.94199,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Bulgaria",
+        "Longitude": 23.3238,
+        "Latitude": 42.7105,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 41
+    },
+    {
+        "Name": "Burkina Faso",
+        "Longitude": -1.53395,
+        "Latitude": 12.3605,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Burundi",
+        "Longitude": 29.3639,
+        "Latitude": -3.3784,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Cabo Verde",
+        "Longitude": -23.5087,
+        "Latitude": 14.9218,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Cambodia",
+        "Longitude": 104.874,
+        "Latitude": 11.5556,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Cameroon",
+        "Longitude": 11.5174,
+        "Latitude": 3.8721,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Canada",
+        "Longitude": -75.6919,
+        "Latitude": 45.4215,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 1452
+    },
+    {
+        "Name": "Cayman Islands",
+        "Longitude": -81.3857,
+        "Latitude": 19.3022,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Central African Republic",
+        "Longitude": 21.6407,
+        "Latitude": 5.63056,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Chad",
+        "Longitude": 15.0445,
+        "Latitude": 12.1048,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Chile",
+        "Longitude": -70.6475,
+        "Latitude": -33.475,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 89
+    },
+    {
+        "Name": "China",
+        "Longitude": 116.286,
+        "Latitude": 40.0495,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 4395
+    },
+    {
+        "Name": "Colombia",
+        "Longitude": -74.082,
+        "Latitude": 4.60987,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 74
+    },
+    {
+        "Name": "Comoros",
+        "Longitude": 43.2418,
+        "Latitude": -11.6986,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Congo, Dem. Rep.",
+        "Longitude": 15.3222,
+        "Latitude": -4.325,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Congo, Rep.",
+        "Longitude": 15.2662,
+        "Latitude": -4.2767,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Costa Rica",
+        "Longitude": -84.0089,
+        "Latitude": 9.63701,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 67
+    },
+    {
+        "Name": "Cote d'Ivoire",
+        "Longitude": -4.0305,
+        "Latitude": 5.332,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Croatia",
+        "Longitude": 15.9614,
+        "Latitude": 45.8069,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 38
+    },
+    {
+        "Name": "Cuba",
+        "Longitude": -82.3667,
+        "Latitude": 23.1333,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Cyprus",
+        "Longitude": 33.3736,
+        "Latitude": 35.1676,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 22
+    },
+    {
+        "Name": "Czech Republic",
+        "Longitude": 14.4205,
+        "Latitude": 50.0878,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 109
+    },
+    {
+        "Name": "Denmark",
+        "Longitude": 12.5681,
+        "Latitude": 55.6763,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 94
+    },
+    {
+        "Name": "Djibouti",
+        "Longitude": 43.1425,
+        "Latitude": 11.5806,
+        "World Bank region": "Middle East and North Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Dominica",
+        "Longitude": -61.39,
+        "Latitude": 15.2976,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Dominican Republic",
+        "Longitude": -69.8908,
+        "Latitude": 18.479,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Ecuador",
+        "Longitude": -78.5243,
+        "Latitude": -0.229498,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 29
+    },
+    {
+        "Name": "Egypt, Arab Rep.",
+        "Longitude": 31.2461,
+        "Latitude": 30.0982,
+        "World Bank region": "Middle East and North Africa",
+        "麦当劳餐厅数": 155
+    },
+    {
+        "Name": "El Salvador",
+        "Longitude": -89.2073,
+        "Latitude": 13.7034,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 18
+    },
+    {
+        "Name": "Equatorial Guinea",
+        "Longitude": 8.7741,
+        "Latitude": 3.7523,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Eritrea",
+        "Longitude": 38.9183,
+        "Latitude": 15.3315,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Estonia",
+        "Longitude": 24.7586,
+        "Latitude": 59.4392,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 10
+    },
+    {
+        "Name": "Eswatini",
+        "Longitude": 31.4659,
+        "Latitude": -26.5225,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Ethiopia",
+        "Longitude": 38.7468,
+        "Latitude": 9.02274,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Faroe Islands",
+        "Longitude": -6.91181,
+        "Latitude": 61.8926,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Fiji",
+        "Longitude": 178.399,
+        "Latitude": -18.1149,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 4
+    },
+    {
+        "Name": "Finland",
+        "Longitude": 24.9525,
+        "Latitude": 60.1608,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 67
+    },
+    {
+        "Name": "France",
+        "Longitude": 2.35097,
+        "Latitude": 48.8566,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 1517
+    },
+    {
+        "Name": "French Polynesia",
+        "Longitude": -149.57,
+        "Latitude": -17.535,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Gabon",
+        "Longitude": 9.45162,
+        "Latitude": 0.38832,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Gambia, The",
+        "Longitude": -16.5885,
+        "Latitude": 13.4495,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Georgia",
+        "Longitude": 44.793,
+        "Latitude": 41.71,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 18
+    },
+    {
+        "Name": "Germany",
+        "Longitude": 13.4115,
+        "Latitude": 52.5235,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 1423
+    },
+    {
+        "Name": "Ghana",
+        "Longitude": -0.20795,
+        "Latitude": 5.57045,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Greece",
+        "Longitude": 23.7166,
+        "Latitude": 37.9792,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 25
+    },
+    {
+        "Name": "Greenland",
+        "Longitude": -51.7214,
+        "Latitude": 64.1836,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Grenada",
+        "Longitude": -61.7449,
+        "Latitude": 12.0653,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Guam",
+        "Longitude": 144.794,
+        "Latitude": 13.4443,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Guatemala",
+        "Longitude": -90.5328,
+        "Latitude": 14.6248,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 101
+    },
+    {
+        "Name": "Guinea",
+        "Longitude": -13.7,
+        "Latitude": 9.51667,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Guinea-Bissau",
+        "Longitude": -15.1804,
+        "Latitude": 11.8037,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Guyana",
+        "Longitude": -58.1548,
+        "Latitude": 6.80461,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Haiti",
+        "Longitude": -72.3288,
+        "Latitude": 18.5392,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Honduras",
+        "Longitude": -87.4667,
+        "Latitude": 15.1333,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 10
+    },
+    {
+        "Name": "Hong Kong SAR, China",
+        "Longitude": 114.109,
+        "Latitude": 22.3964,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 247
+    },
+    {
+        "Name": "Hungary",
+        "Longitude": 19.0408,
+        "Latitude": 47.4984,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 97
+    },
+    {
+        "Name": "Iceland",
+        "Longitude": -21.8952,
+        "Latitude": 64.1353,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "India",
+        "Longitude": 77.225,
+        "Latitude": 28.6353,
+        "World Bank region": "South Asia",
+        "麦当劳餐厅数": 468
+    },
+    {
+        "Name": "Indonesia",
+        "Longitude": 106.83,
+        "Latitude": -6.19752,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 254
+    },
+    {
+        "Name": "Iran, Islamic Rep.",
+        "Longitude": 51.4447,
+        "Latitude": 35.6878,
+        "World Bank region": "Middle East and North Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Iraq",
+        "Longitude": 44.394,
+        "Latitude": 33.3302,
+        "World Bank region": "Middle East and North Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Ireland",
+        "Longitude": -6.26749,
+        "Latitude": 53.3441,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 95
+    },
+    {
+        "Name": "Isle of Man",
+        "Longitude": -4.47928,
+        "Latitude": 54.1509,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Israel",
+        "Longitude": 35.2035,
+        "Latitude": 31.7717,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 213
+    },
+    {
+        "Name": "Italy",
+        "Longitude": 12.4823,
+        "Latitude": 41.8955,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 634
+    },
+    {
+        "Name": "Jamaica",
+        "Longitude": -76.792,
+        "Latitude": 17.9927,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Japan",
+        "Longitude": 139.77,
+        "Latitude": 35.67,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 2941
+    },
+    {
+        "Name": "Jordan",
+        "Longitude": 35.9263,
+        "Latitude": 31.9497,
+        "World Bank region": "Middle East and North Africa",
+        "麦当劳餐厅数": 39
+    },
+    {
+        "Name": "Kazakhstan",
+        "Longitude": 71.4382,
+        "Latitude": 51.1879,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 21
+    },
+    {
+        "Name": "Kenya",
+        "Longitude": 36.8126,
+        "Latitude": -1.27975,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Kiribati",
+        "Longitude": 172.979,
+        "Latitude": 1.32905,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Korea, Rep.",
+        "Longitude": 126.957,
+        "Latitude": 37.5323,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 403
+    },
+    {
+        "Name": "Kosovo",
+        "Longitude": 20.926,
+        "Latitude": 42.565,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Kuwait",
+        "Longitude": 47.9824,
+        "Latitude": 29.3721,
+        "World Bank region": "Middle East and North Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Kyrgyz Republic",
+        "Longitude": 74.6057,
+        "Latitude": 42.8851,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Lao PDR",
+        "Longitude": 102.177,
+        "Latitude": 18.5826,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Latvia",
+        "Longitude": 24.1048,
+        "Latitude": 56.9465,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 17
+    },
+    {
+        "Name": "Lebanon",
+        "Longitude": 35.5134,
+        "Latitude": 33.8872,
+        "World Bank region": "Middle East and North Africa",
+        "麦当劳餐厅数": 25
+    },
+    {
+        "Name": "Lesotho",
+        "Longitude": 27.7167,
+        "Latitude": -29.5208,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Liberia",
+        "Longitude": -10.7957,
+        "Latitude": 6.30039,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Libya",
+        "Longitude": 13.1072,
+        "Latitude": 32.8578,
+        "World Bank region": "Middle East and North Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Liechtenstein",
+        "Longitude": 9.52148,
+        "Latitude": 47.1411,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Lithuania",
+        "Longitude": 25.2799,
+        "Latitude": 54.6896,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 17
+    },
+    {
+        "Name": "Luxembourg",
+        "Longitude": 6.1296,
+        "Latitude": 49.61,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 12
+    },
+    {
+        "Name": "Macao SAR, China",
+        "Longitude": 113.55,
+        "Latitude": 22.1667,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 40
+    },
+    {
+        "Name": "Madagascar",
+        "Longitude": 45.7167,
+        "Latitude": -20.4667,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Malawi",
+        "Longitude": 33.7703,
+        "Latitude": -13.9899,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Malaysia",
+        "Longitude": 101.684,
+        "Latitude": 3.12433,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 318
+    },
+    {
+        "Name": "Maldives",
+        "Longitude": 73.5109,
+        "Latitude": 4.1742,
+        "World Bank region": "South Asia",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Mali",
+        "Longitude": -7.50034,
+        "Latitude": 13.5667,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Malta",
+        "Longitude": 14.5189,
+        "Latitude": 35.9042,
+        "World Bank region": "Middle East and North Africa",
+        "麦当劳餐厅数": 9
+    },
+    {
+        "Name": "Marshall Islands",
+        "Longitude": 171.135,
+        "Latitude": 7.11046,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Mauritania",
+        "Longitude": -15.9824,
+        "Latitude": 18.2367,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Mauritius",
+        "Longitude": 57.4977,
+        "Latitude": -20.1605,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 12
+    },
+    {
+        "Name": "Mexico",
+        "Longitude": -99.1276,
+        "Latitude": 19.427,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 365
+    },
+    {
+        "Name": "Micronesia, Fed. Sts.",
+        "Longitude": 158.185,
+        "Latitude": 6.91771,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Moldova",
+        "Longitude": 28.8497,
+        "Latitude": 47.0167,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 5
+    },
+    {
+        "Name": "Monaco",
+        "Longitude": 7.41891,
+        "Latitude": 43.7325,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Mongolia",
+        "Longitude": 106.937,
+        "Latitude": 47.9129,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Montenegro",
+        "Longitude": 19.2595,
+        "Latitude": 42.4602,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Morocco",
+        "Longitude": -6.8704,
+        "Latitude": 33.9905,
+        "World Bank region": "Middle East and North Africa",
+        "麦当劳餐厅数": 56
+    },
+    {
+        "Name": "Mozambique",
+        "Longitude": 32.5713,
+        "Latitude": -25.9664,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Myanmar",
+        "Longitude": 95.9562,
+        "Latitude": 21.914,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Namibia",
+        "Longitude": 17.0931,
+        "Latitude": -22.5648,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Nauru",
+        "Longitude": 166.920867,
+        "Latitude": -0.5477,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Nepal",
+        "Longitude": 85.3157,
+        "Latitude": 27.6939,
+        "World Bank region": "South Asia",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Netherlands",
+        "Longitude": 4.89095,
+        "Latitude": 52.3738,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 257
+    },
+    {
+        "Name": "New Caledonia",
+        "Longitude": 166.464,
+        "Latitude": -22.2677,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 4
+    },
+    {
+        "Name": "New Zealand",
+        "Longitude": 174.776,
+        "Latitude": -41.2865,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 171
+    },
+    {
+        "Name": "Nicaragua",
+        "Longitude": -86.2734,
+        "Latitude": 12.1475,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 7
+    },
+    {
+        "Name": "Niger",
+        "Longitude": 2.1073,
+        "Latitude": 13.514,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Nigeria",
+        "Longitude": 7.48906,
+        "Latitude": 9.05804,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "North Macedonia",
+        "Longitude": 21.4361,
+        "Latitude": 42.0024,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Northern Mariana Islands",
+        "Longitude": 145.765,
+        "Latitude": 15.1935,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Norway",
+        "Longitude": 10.7387,
+        "Latitude": 59.9138,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 77
+    },
+    {
+        "Name": "Oman",
+        "Longitude": 58.5874,
+        "Latitude": 23.6105,
+        "World Bank region": "Middle East and North Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Pakistan",
+        "Longitude": 72.8,
+        "Latitude": 30.5167,
+        "World Bank region": "South Asia",
+        "麦当劳餐厅数": 74
+    },
+    {
+        "Name": "Palau",
+        "Longitude": 134.479,
+        "Latitude": 7.34194,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Panama",
+        "Longitude": -79.5188,
+        "Latitude": 8.99427,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 74
+    },
+    {
+        "Name": "Papua New Guinea",
+        "Longitude": 147.194,
+        "Latitude": -9.47357,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Paraguay",
+        "Longitude": -57.6362,
+        "Latitude": -25.3005,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 20
+    },
+    {
+        "Name": "Peru",
+        "Longitude": -77.0465,
+        "Latitude": -12.0931,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 27
+    },
+    {
+        "Name": "Philippines",
+        "Longitude": 121.035,
+        "Latitude": 14.5515,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 671
+    },
+    {
+        "Name": "Poland",
+        "Longitude": 21.02,
+        "Latitude": 52.26,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 490
+    },
+    {
+        "Name": "Portugal",
+        "Longitude": -9.13552,
+        "Latitude": 38.7072,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 188
+    },
+    {
+        "Name": "Puerto Rico",
+        "Longitude": -66.0,
+        "Latitude": 18.23,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 93
+    },
+    {
+        "Name": "Qatar",
+        "Longitude": 51.5082,
+        "Latitude": 25.2948,
+        "World Bank region": "Middle East and North Africa",
+        "麦当劳餐厅数": 63
+    },
+    {
+        "Name": "Romania",
+        "Longitude": 26.0979,
+        "Latitude": 44.4479,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 92
+    },
+    {
+        "Name": "Russian Federation",
+        "Longitude": 37.6176,
+        "Latitude": 55.7558,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 847
+    },
+    {
+        "Name": "Rwanda",
+        "Longitude": 30.0587,
+        "Latitude": -1.95325,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Samoa",
+        "Longitude": -171.752,
+        "Latitude": -13.8314,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "San Marino",
+        "Longitude": 12.4486,
+        "Latitude": 43.9322,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Sao Tome and Principe",
+        "Longitude": 6.6071,
+        "Latitude": 0.20618,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Saudi Arabia",
+        "Longitude": 46.6977,
+        "Latitude": 24.6748,
+        "World Bank region": "Middle East and North Africa",
+        "麦当劳餐厅数": 432
+    },
+    {
+        "Name": "Senegal",
+        "Longitude": -17.4734,
+        "Latitude": 14.7247,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Serbia",
+        "Longitude": 20.4656,
+        "Latitude": 44.8024,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 30
+    },
+    {
+        "Name": "Seychelles",
+        "Longitude": 55.4466,
+        "Latitude": -4.6309,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Sierra Leone",
+        "Longitude": -13.2134,
+        "Latitude": 8.4821,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Singapore",
+        "Longitude": 103.85,
+        "Latitude": 1.28941,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 137
+    },
+    {
+        "Name": "Slovak Republic",
+        "Longitude": 17.1073,
+        "Latitude": 48.1484,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Slovenia",
+        "Longitude": 14.5044,
+        "Latitude": 46.0546,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 22
+    },
+    {
+        "Name": "Solomon Islands",
+        "Longitude": 159.949,
+        "Latitude": -9.42676,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Somalia",
+        "Longitude": 45.3254,
+        "Latitude": 2.07515,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "South Africa",
+        "Longitude": 28.1871,
+        "Latitude": -25.746,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 323
+    },
+    {
+        "Name": "South Sudan",
+        "Longitude": 31.6,
+        "Latitude": 4.85,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Spain",
+        "Longitude": -3.70327,
+        "Latitude": 40.4167,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 557
+    },
+    {
+        "Name": "Sri Lanka",
+        "Longitude": 79.8528,
+        "Latitude": 6.92148,
+        "World Bank region": "South Asia",
+        "麦当劳餐厅数": 12
+    },
+    {
+        "Name": "St. Kitts and Nevis",
+        "Longitude": -62.7309,
+        "Latitude": 17.3,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "St. Lucia",
+        "Longitude": -60.9832,
+        "Latitude": 14.0,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "St. Vincent and the Grenadines",
+        "Longitude": -61.2653,
+        "Latitude": 13.2035,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Sudan",
+        "Longitude": 32.5363,
+        "Latitude": 15.5932,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Suriname",
+        "Longitude": -55.1679,
+        "Latitude": 5.8232,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Sweden",
+        "Longitude": 18.0645,
+        "Latitude": 59.3327,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 194
+    },
+    {
+        "Name": "Switzerland",
+        "Longitude": 7.44821,
+        "Latitude": 46.948,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 171
+    },
+    {
+        "Name": "Syrian Arab Republic",
+        "Longitude": 36.3119,
+        "Latitude": 33.5146,
+        "World Bank region": "Middle East and North Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Tajikistan",
+        "Longitude": 68.7864,
+        "Latitude": 38.5878,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Tanzania",
+        "Longitude": 35.7382,
+        "Latitude": -6.17486,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Thailand",
+        "Longitude": 100.521,
+        "Latitude": 13.7308,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 225
+    },
+    {
+        "Name": "Timor-Leste",
+        "Longitude": 125.567,
+        "Latitude": -8.56667,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Togo",
+        "Longitude": 1.2255,
+        "Latitude": 6.1228,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Tonga",
+        "Longitude": -175.216,
+        "Latitude": -21.136,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Trinidad and Tobago",
+        "Longitude": -61.4789,
+        "Latitude": 10.6596,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 4
+    },
+    {
+        "Name": "Tunisia",
+        "Longitude": 10.21,
+        "Latitude": 36.7899,
+        "World Bank region": "Middle East and North Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Turkey",
+        "Longitude": 32.3606,
+        "Latitude": 39.7153,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 242
+    },
+    {
+        "Name": "Turkmenistan",
+        "Longitude": 58.3794,
+        "Latitude": 37.9509,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Turks and Caicos Islands",
+        "Longitude": -71.141389,
+        "Latitude": 21.4602778,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Tuvalu",
+        "Longitude": 179.089567,
+        "Latitude": -8.6314877,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Uganda",
+        "Longitude": 32.5729,
+        "Latitude": 0.314269,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Ukraine",
+        "Longitude": 30.5038,
+        "Latitude": 50.4536,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 108
+    },
+    {
+        "Name": "United Arab Emirates",
+        "Longitude": 54.3705,
+        "Latitude": 24.4764,
+        "World Bank region": "Middle East and North Africa",
+        "麦当劳餐厅数": 189
+    },
+    {
+        "Name": "United Kingdom",
+        "Longitude": -0.126236,
+        "Latitude": 51.5002,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 1367
+    },
+    {
+        "Name": "United States",
+        "Longitude": -77.032,
+        "Latitude": 38.8895,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 13438
+    },
+    {
+        "Name": "Uruguay",
+        "Longitude": -56.0675,
+        "Latitude": -34.8941,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 31
+    },
+    {
+        "Name": "Uzbekistan",
+        "Longitude": 69.269,
+        "Latitude": 41.3052,
+        "World Bank region": "Europe and Central Asia",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Vanuatu",
+        "Longitude": 168.321,
+        "Latitude": -17.7404,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Venezuela, RB",
+        "Longitude": -69.8371,
+        "Latitude": 9.08165,
+        "World Bank region": "Latin America & the Caribbean",
+        "麦当劳餐厅数": 102
+    },
+    {
+        "Name": "Vietnam",
+        "Longitude": 105.825,
+        "Latitude": 21.0069,
+        "World Bank region": "East Asia and Pacific",
+        "麦当劳餐厅数": 24
+    },
+    {
+        "Name": "Virgin Islands (U.S.)",
+        "Longitude": -64.8963,
+        "Latitude": 18.3358,
+        "World Bank region": "Other",
+        "麦当劳餐厅数": 5
+    },
+    {
+        "Name": "Yemen, Rep.",
+        "Longitude": 44.2075,
+        "Latitude": 15.352,
+        "World Bank region": "Middle East and North Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Zambia",
+        "Longitude": 28.2937,
+        "Latitude": -15.3982,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    },
+    {
+        "Name": "Zimbabwe",
+        "Longitude": 31.0672,
+        "Latitude": -17.8312,
+        "World Bank region": "Sub-Saharan Africa",
+        "麦当劳餐厅数": 0
+    }
+]
